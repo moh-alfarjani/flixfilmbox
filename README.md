@@ -1,6 +1,12 @@
 # 🎬 FlixFilmBox
-
 Welcome to **FlixFilmBox** — a personal project inspired by modern cinema websites, crafted from scratch using only **HTML5** and **CSS3 (Flexbox)**!
+
+---
+
+## 📸 Project Preview
+![FlixFilmBox Preview](main.png)
+
+---
 
 ## 🌐 Preview
 [Live Demo on GitHub Pages](#)
@@ -68,11 +74,6 @@ FlixFilmBox:<br>
 - **Font Awesome** for icons  
 - **Visual Studio Code** as the development environment  
 - Local assets: images, fonts, and video stored inside `src/`
-
----
-
-## 📸 Project Preview
-![FlixFilmBox Preview](main.png)
 
 ---
 
