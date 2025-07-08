@@ -9,7 +9,8 @@ Welcome to **FlixFilmBox** — a personal project inspired by modern cinema webs
 ---
 
 ## 🌐 Preview
-[Live Demo on GitHub Pages](#)
+[Live Demo](https://moh-alfarjani.github.io/flixfilmbox/)
+
 ---
 
 ## 🚀 Project Overview
