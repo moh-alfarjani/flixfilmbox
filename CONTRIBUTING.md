@@ -17,18 +17,14 @@ There are many ways to contribute:
 ## Getting Started
 1. **Fork the repository** on GitHub  
 2. **Clone your fork** locally:
-   git clone https://github.com/your-username/FlixFilmBox.git
-
+   (git clone https://github.com/your-username/FlixFilmBox.git)
 3. **Create a new branch** for your work:
-git checkout -b feature/your-feature-name
-
-Make your changes with clear and descriptive commits.
-Test your changes thoroughly on multiple screen sizes and browsers.
-
-4. **Push your branch** to your fork:
-git push origin feature/your-feature-name
-
-Open a Pull Request (PR) to the main repository with a clear explanation of your changes.
+(git checkout -b feature/your-feature-name)
+4. Make your changes with clear and descriptive commits.
+5. Test your changes thoroughly on multiple screen sizes and browsers.
+6. **Push your branch** to your fork:
+(git push origin feature/your-feature-name)
+7. Open a Pull Request (PR) to the main repository with a clear explanation of your changes.
 
 ---
 
